@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+The Pokédex Manager is a system developed to manage information about Pokémon, allowing for the registration, listing, searching, modification, and deletion of Pokémon available for capture. Additionally, it keeps track of Pokémon already captured in a collection and available for battle in a backpack. The system provides an interactive experience for the user, featuring visualization by generation and type, utilizing colors, sounds, and an intuitive interface.
