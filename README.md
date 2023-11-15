@@ -1,1 +1,4 @@
-The Pokédex Manager is a system developed to manage information about Pokémon, allowing for the registration, listing, searching, modification, and deletion of Pokémon available for capture. Additionally, it keeps track of Pokémon already captured in a collection and available for battle in a backpack. The system provides an interactive experience for the user, featuring visualization by generation and type, utilizing colors, sounds, and an intuitive interface.
+# Sistema de Gerenciamento de Pokemons!
+
+Este projeto consiste em um sistema de gerenciamento de pokemons, onde o usuário possui uma pokedex, uma coleção e uma mochila para manipular todos os pokemons cadastrados em seu programa.
+Cabe ressaltar que se trata de um sistema desenvolvido durante o segundo período do curso de Engenharia de Computação, na disciplina de Fundamentos de Programação II, ministrada pelo professor Muriel de Souza Godoi.
